@@ -1,3 +1,7 @@
-#main-wrapper{
+body{
 	background: #dae1eb;
+	position:absolute;
+	width:100%;
+	min-height:100%;
+	margin:0;
 }
